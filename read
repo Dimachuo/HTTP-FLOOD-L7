@@ -1,0 +1,13 @@
+*Installer*
+
+$ pkg install python python-pip -y && pip install bs4 ; pip install pysocks  
+
+[Use] 
+
+$ python Proxy.py # Install Proxy  
+
+$ python Socks.py # Install Socks mode 
+
+$ python start.py # Start 
+
+
